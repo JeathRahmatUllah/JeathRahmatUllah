@@ -14,5 +14,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeathRahmatUllah&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeathRahmatUllah&show_icons=true&bg_color=00000000)

@@ -8,4 +8,5 @@
 ### 📫 How to reach me: jeathrahmatullah@gmail.com
 ### 😄 Pronouns: J I A D
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeathRahmatUllah)](https://git.io/streak-stats)
 

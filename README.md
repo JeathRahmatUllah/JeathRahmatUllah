@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/JeathRahmatUllah">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jeath Rahmat Ullah" /></a>
+    <img src="![Jeath Rahmat Ullah](https://github.com/JeathRahmatUllah/JeathRahmatUllah/assets/48548216/3b389edf-7698-4e6c-a230-4f4ea0362470)" alt="Jeath Rahmat Ullah" /></a>
 </p>
 
 <p align="center">

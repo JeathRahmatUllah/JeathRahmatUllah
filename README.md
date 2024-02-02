@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/JeathRahmatUllah">
-    <h1 Jeath Rahmat Ullah /></a>
+    </a>
 </p>
 
 <p align="center">

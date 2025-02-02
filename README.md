@@ -73,6 +73,11 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
   <br/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeathrahmatullah&show_icons=true&locale=en&layout=compact" alt="jeathrahmatullah" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeathrahmatullah&show_icons=true&locale=en" alt="jeathrahmatullah" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeathrahmatullah&" alt="jeathrahmatullah" /></p>
 
 
 

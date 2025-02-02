@@ -81,12 +81,6 @@
   </p>
   <br/>
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
-    <a href="https://github.com/JeathRahmatUllah/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=JeathRahmatUllah&theme=monokai-  metallian&hide_border=true&short_numbers=true"/>
-      </a>
-    </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 

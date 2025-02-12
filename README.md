@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/JeathRahmatUllah/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Jeath%20Rahmat%20Ullah;Experienced%20Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Jeath%20Rahmat%20Ullah;Experienced%20Backend%20Developer;Always%20learning%20new%20tools&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -68,6 +68,7 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   </p>
+  <br/>
 
   <h3>💻 Software and Tools</h3>
 
@@ -88,7 +89,16 @@
   </p>
   <br/>
 
+   <h3>🧑‍💻 Developer/Forums</h3>
 
+  <p>
+      <a href="#"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+      <a href="#"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+      <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+  </p>
+  <br/>
 
   <h3>💻 GitHub Profile Stats</h3>
 
